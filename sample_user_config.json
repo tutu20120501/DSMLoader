@@ -4,8 +4,8 @@
         "vid": "0x46f4",
         "sn": "1234XXX123",
         "mac1": "XXYYXXYYXXYY",
-        "SataPortMap": "X",
-        "DiskIdxMap": "XXXX"      
+        "SataPortMap": "000X000",
+        "DiskIdxMap": "0XXXX0"      
     },
     "synoinfo": {},
     "ramdisk_copy": {},
